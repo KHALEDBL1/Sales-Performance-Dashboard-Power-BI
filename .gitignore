@@ -1,0 +1,13 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary and lock files
+*.tmp
+*.temp
+~$*
+
+# Power BI local artifacts
+*.pbix.autosave
+*.pbi.local.json
+
