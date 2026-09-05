@@ -1,6 +1,6 @@
 # Sales Performance Dashboard | Power BI
 
-> Academic portfolio project by **Khaled Omar Bahidilh**
+> Academic portfolio project by **KHALID BAHADILAH**
 
 An executive-style Power BI dashboard that turns AdventureWorks sales files into a clear view of sales volume, revenue, profitability, yearly performance, and quarterly profit trends.
 
@@ -111,5 +111,5 @@ This project uses AdventureWorks educational sample data in CSV format. Adventur
 
 ## Author
 
-**Khaled Omar Bahidilh**  
+**KHALID BAHADILAH**  
 Data Analytics and Business Intelligence Portfolio Project
